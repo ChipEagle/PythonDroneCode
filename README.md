@@ -23,6 +23,7 @@ Using Python 3.8.6 and Microsoft Visual Studio Code IDE
 1)	Create a new directory
 
     a.	mkdir FaceTracking
+    
     b.	cd FaceTracking
 
 2)	Create and activate the virtual environment
