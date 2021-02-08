@@ -51,8 +51,11 @@ We noticed a new virtual environment has been created. Do you want to select it 
 Click on the “Yes” button.
 
 b.	Install other python modules in the virtual environment
+
      •	OpenCV-Python - python -m pip install opencv-python
+     
         o	Note: This also installs numpy
+        
      •	djitellopy - python -m pip install djitellopy
 
 3)	Deactivate the virtual environment
