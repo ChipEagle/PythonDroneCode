@@ -34,8 +34,11 @@ a.	Create and activate the virtual environment
 
 For windows:
 py -3 -m venv .venv
+
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+
 .venv\scripts\activate
+
 
 Note: When you create a new virtual environment, you should be prompted by Visual Studio Code (VS Code) to set it as the default for your workspace folder. If selected, the environment will automatically be activated when you open a new terminal.
 
