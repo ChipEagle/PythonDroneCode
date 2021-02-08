@@ -21,12 +21,13 @@ Setup:
 Using Python 3.8.6 and Microsoft Visual Studio Code IDE
 
 1)	Create a new directory
+
     a.	mkdir FaceTracking
     b.	cd FaceTracking
 
 2)	Create and activate the virtual environment
 
-virtual environment
+Virtual environment
 
 Note: A best practice among Python developers is to avoid installing packages into a global interpreter environment. You instead use a project-specific virtual environment that contains a copy of a global interpreter. Once you activate that environment, any packages you then install are isolated from other environments. Such isolation reduces many complications that can arise from conflicting package versions. To create a virtual environment and install the required packages, enter the following commands as appropriate for your operating system:
 
